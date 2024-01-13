@@ -50,7 +50,7 @@ Provide a demo or examples of how to use the trained model for predicting surviv
 ![Screenshot (97)](https://github.com/TARUN2K3/DATA-_SCIENCE_PROJECT_2/assets/127468524/d8373ef3-3f39-4a9a-b9a4-a30f1fccf5ec)
 
 
-## 11. Technologies Used
+##Technologies Used
 
 - Python
 - Scikit-Learn
@@ -60,7 +60,7 @@ Provide a demo or examples of how to use the trained model for predicting surviv
 - Jupyter Notebooks
 
 
-## 13. Contributing
+##Contributing
 
 If you'd like to contribute to the project, you are most welcome
 
